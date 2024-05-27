@@ -6,7 +6,7 @@ Hello, GitHub! I'm Slate, I make projects in Scratch mods like TurboWarp. I know
 [DokiWarp](https://github.com/DokiWarp) - Recreation of the Doki Doki Literature Club engine made in TurboWarp.
 
 ### Contact;
-* **Discord:** monika-fan70
+* **Discord:** `monika_fan70`
 
 ##
 ![Selfie](https://i.ibb.co/z49DY34/selfie-foreign-relations-cg-by-ricotta-v0-hzcjjud43lcc1.webp)
